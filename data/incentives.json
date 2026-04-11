@@ -1,0 +1,246 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-04-01",
+  "federal": [
+    {
+      "name": "IRAP",
+      "full_name": "Industrial Research Assistance Program",
+      "url": "https://nrc.canada.ca/en/support-technology-innovation",
+      "type": "Grant",
+      "description": "Industrial R&D funding for SMEs",
+      "eligibility": "Canadian SMEs with R&D projects",
+      "amount": "Up to $10M",
+      "status": "Active",
+      "administered_by": "National Research Council"
+    },
+    {
+      "name": "SR&ED",
+      "full_name": "Scientific Research \u0026 Experimental Development",
+      "url": "https://canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html",
+      "type": "Tax Credit",
+      "description": "Tax incentive for R&D expenditures",
+      "eligibility": "Canadian corporations doing R&D",
+      "amount": "15-35% of eligible expenses",
+      "status": "Active",
+      "administered_by": "Canada Revenue Agency"
+    },
+    {
+      "name": "CanExport SMEs",
+      "full_name": "CanExport Small and Medium-sized Enterprises",
+      "url": "https://tradecommissioner.gc.ca/canexport-sme.aspx",
+      "type": "Grant",
+      "description": "International market expansion funding",
+      "eligibility": "SMEs with export potential",
+      "amount": "Up to $50K",
+      "status": "Active",
+      "administered_by": "Global Affairs Canada"
+    },
+    {
+      "name": "CDAP",
+      "full_name": "Canada Digital Adoption Program",
+      "url": "https://canada.ca/en/services/business/programs.html",
+      "type": "Grant",
+      "description": "Digital adoption and e-commerce support",
+      "eligibility": "For-profit businesses",
+      "amount": "Up to $15K grant + interest-free loan",
+      "status": "Active",
+      "administered_by": "ISED"
+    },
+    {
+      "name": "SDTC",
+      "full_name": "Sustainable Development Technology Canada",
+      "url": "https://sdtc.canada.ca/",
+      "type": "Grant/Investment",
+      "description": "Clean technology development funding",
+      "eligibility": "Clean tech companies",
+      "amount": "Varies by project",
+      "status": "Active",
+      "administered_by": "SDTC"
+    },
+    {
+      "name": "BDC Financing",
+      "full_name": "Business Development Bank of Canada",
+      "url": "https://www.bdc.ca/",
+      "type": "Loan",
+      "description": "Low-interest business loans",
+      "eligibility": "Canadian businesses",
+      "amount": "Varies",
+      "status": "Active",
+      "administered_by": "BDC"
+    }
+  ],
+  "provincial": [
+    {
+      "name": "EODP",
+      "full_name": "Eastern Ontario Development Program",
+      "url": "https://feddev-ontario.gc.ca/",
+      "type": "Grant",
+      "description": "Economic development and job creation support",
+      "eligibility": "Eastern Ontario businesses and communities",
+      "region": "Eastern Ontario",
+      "amount": "Varies",
+      "status": "Active",
+      "administered_by": "FedDev Ontario"
+    },
+    {
+      "name": "IOF",
+      "full_name": "Invest Ontario Fund",
+      "url": "https://investontario.ca/",
+      "type": "Grant/Loan",
+      "description": "Strategic investments in key sectors",
+      "eligibility": "Investments in priority sectors",
+      "region": "Province-wide",
+      "amount": "Varies",
+      "status": "Active",
+      "administered_by": "Invest Ontario"
+    },
+    {
+      "name": "RDP",
+      "full_name": "Regional Development Program",
+      "url": "https://ontario.ca/page/business-supports",
+      "type": "Grant",
+      "description": "Business expansion and investment support",
+      "eligibility": "Businesses in designated regions",
+      "region": "Eastern Ontario",
+      "amount": "Varies",
+      "status": "Active",
+      "administered_by": "Ontario Ministry of Economic Development"
+    },
+    {
+      "name": "Summer Company",
+      "full_name": "Summer Company Program",
+      "url": "https://ontario.ca/page/start-company",
+      "type": "Grant",
+      "description": "Student entrepreneurship program",
+      "eligibility": "Students aged 15-29",
+      "region": "Province-wide",
+      "amount": "Up to $3,000",
+      "status": "Active (Seasonal)",
+      "administered_by": "Service Ontario"
+    }
+  ],
+  "local": {
+    "Kingston": [
+      {
+        "name": "Property Tax Incentives",
+        "type": "Tax Relief",
+        "description": "Development charge reductions for eligible projects",
+        "eligibility": "New development projects",
+        "contact": "Economic Development"
+      },
+      {
+        "name": "Facade Improvement Program",
+        "type": "Grant",
+        "description": "Downtown building facade improvements",
+        "eligibility": "Downtown businesses",
+        "contact": "City of Kingston"
+      },
+      {
+        "name": "Business License Fee Waivers",
+        "type": "Fee Waiver",
+        "description": "Incentives for new businesses",
+        "eligibility": "New business registrations",
+        "contact": "City of Kingston"
+      },
+      {
+        "name": "Density Bonuses",
+        "type": "Zoning Incentive",
+        "description": "Height/density incentives for affordable housing",
+        "eligibility": "Affordable housing projects",
+        "contact": "Planning Department"
+      }
+    ],
+    "Belleville": [
+      {
+        "name": "Community Improvement Plan",
+        "type": "Grant/Loan",
+        "description": "Downtown revitalization incentives",
+        "eligibility": "Downtown property owners",
+        "contact": "Economic Development"
+      },
+      {
+        "name": "Tax Increment Financing",
+        "type": "Tax Tool",
+        "description": "Redevelopment area support",
+        "eligibility": "Redevelopment projects",
+        "contact": "City of Belleville"
+      },
+      {
+        "name": "Development Charge Credits",
+        "type": "Fee Reduction",
+        "description": "Industrial development incentives",
+        "eligibility": "Industrial projects",
+        "contact": "City of Belleville"
+      }
+    ],
+    "Brockville": [
+      {
+        "name": "Downtown Brockville CIP",
+        "type": "Grant",
+        "description": "Property improvement grants",
+        "eligibility": "Downtown property owners",
+        "contact": "Economic Development"
+      },
+      {
+        "name": "Brownfield Redevelopment",
+        "type": "Tax Relief",
+        "description": "Contaminated site cleanup incentives",
+        "eligibility": "Brownfield properties",
+        "contact": "City of Brockville"
+      }
+    ],
+    "Cornwall": [
+      {
+        "name": "Community Improvement Plan",
+        "type": "Grant",
+        "description": "Downtown and industrial area improvements",
+        "eligibility": "Property owners in designated areas",
+        "contact": "Economic Development"
+      },
+      {
+        "name": "Development Charge Reduction",
+        "type": "Fee Reduction",
+        "description": "Eligible industrial projects",
+        "eligibility": "Industrial developments",
+        "contact": "City of Cornwall"
+      },
+      {
+        "name": "Property Tax Assistance",
+        "type": "Tax Relief",
+        "description": "New development incentives",
+        "eligibility": "Eligible new developments",
+        "contact": "City of Cornwall"
+      }
+    ],
+    "Peterborough": [
+      {
+        "name": "Community Improvement Plan",
+        "type": "Grant/Loan",
+        "description": "Multiple incentive programs",
+        "eligibility": "Property owners",
+        "contact": "Economic Development"
+      },
+      {
+        "name": "Heritage Property Grants",
+        "type": "Grant",
+        "description": "Heritage building restoration",
+        "eligibility": "Heritage property owners",
+        "contact": "City of Peterborough"
+      },
+      {
+        "name": "Brownfield Remediation",
+        "type": "Grant",
+        "description": "Environmental site cleanup",
+        "eligibility": "Brownfield sites",
+        "contact": "Planning Department"
+      },
+      {
+        "name": "Fast-Track Permitting",
+        "type": "Process",
+        "description": "Priority development review",
+        "eligibility": "Major development projects",
+        "contact": "City of Peterborough"
+      }
+    ]
+  }
+}
