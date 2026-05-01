@@ -1,7 +1,7 @@
 # Kingston/Eastern Ontario Government Incentives Report
 
-**Report Date:** April 2025  
-**Generated:** 2026-04-11 12:20 UTC  
+**Report Date:** May 2026  
+**Generated:** 2026-05-01 10:24 UTC  
 **Coverage:** Federal, Provincial, and Local (Kingston, Belleville, Brockville, Cornwall, Peterborough)
 
 ---
